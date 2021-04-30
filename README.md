@@ -9,7 +9,7 @@ I am always open to new challenges. 💻
 
 - 🌎 Brazil.
 - 💻 Systems Analyst.
-- :books: Studying:  ADVPL-MVC. 
+- :books: Studying:  Javascript - ADVPL - MVC. 
 - 🎓 Information Technology Student.
 
 [![Linkedin Badge](https://img.shields.io/badge/-IsadoraVanderlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-vanderlan-2a212b16a/)](https://www.linkedin.com/in/isadora-vanderlan-2a212b16a//)
