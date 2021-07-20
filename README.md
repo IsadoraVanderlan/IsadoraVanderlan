@@ -10,7 +10,7 @@ I am always open to new challenges. 💻
 - 🌎 Brazil.
 - 💻 Systems Analyst.
 - :books: Studying:  Javascript - Bootstrap.
-- 🎓 Information Technology Student.
+- 🎓 Graduated in Information Systems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-IsadoraVanderlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-vanderlan-2a212b16a/)](https://www.linkedin.com/in/isadora-vanderlan-2a212b16a//)
 [![Gmail Badge](https://img.shields.io/badge/-vanderlansantos1991@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanderlansantos1991@gmail.com)](mailto:vanderlansantos1991@gmail.com)
