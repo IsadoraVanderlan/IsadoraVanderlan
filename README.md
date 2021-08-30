@@ -3,7 +3,7 @@
   ### Hello 👋 My name is Isadora Vanderlan!
 
   <br/><br/>
-    #### 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
+    ### 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
   <br/><br/>
   
   <div>
