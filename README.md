@@ -5,7 +5,7 @@ I am always open to new challenges. 💻
 
 #### 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"📖
 
-<div aling-itens= >
+<div align-itens="center" >
 <div>
   <a href="https://github.com/IsadoraVanderlan">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraVanderlan&layout=compact&langs_count=7&theme=radical"/>
