@@ -1,6 +1,6 @@
  ### Hello 👋 My name is Isadora Vanderlan!
  
- ### 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
+ ## 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
   
 - 🌎 Brazil.
 - 💻 Systems Analyst.
