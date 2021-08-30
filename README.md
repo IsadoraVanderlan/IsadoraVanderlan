@@ -1,16 +1,14 @@
 ### Hello 👋
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 My name is Isadora Vanderlan, I am passionate about solving problems and learning,
 I am always open to new challenges. 💻
 
 #### 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"📖
 
+<div>
+  <a href="https://github.com/IsadoraVanderlan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsadoraVanderlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraVanderlan&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🌎 Brazil.
-- 💻 Systems Analyst.
-- :books: Studying:  Javascript - Bootstrap.
-- 🎓 Graduated in Information Systems.
 
-[![Linkedin Badge](https://img.shields.io/badge/-IsadoraVanderlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-vanderlan-2a212b16a/)](https://www.linkedin.com/in/isadora-vanderlan-2a212b16a//)
-[![Gmail Badge](https://img.shields.io/badge/-vanderlansantos1991@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanderlansantos1991@gmail.com)](mailto:vanderlansantos1991@gmail.com)
