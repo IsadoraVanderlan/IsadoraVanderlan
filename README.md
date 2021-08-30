@@ -1,11 +1,10 @@
-### Hello 👋
+### Hello 👋 My name is Isadora Vanderlan!
 
-My name is Isadora Vanderlan, I am passionate about solving problems and learning,
-I am always open to new challenges. 💻
 
 <div align="center">
   
-  #### 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"📖
+<br/>
+  #### 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
 <br/>
   
 <div>
