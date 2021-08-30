@@ -1,11 +1,10 @@
-### Hello 👋 My name is Isadora Vanderlan!
-
-
 <div align="center">
   
-<br/>
+### Hello 👋 My name is Isadora Vanderlan!
+  
+<br/><br/>
   #### 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
-<br/>
+<br/><br/>
   
 <div>
   <a href="https://github.com/IsadoraVanderlan">
