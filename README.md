@@ -4,7 +4,7 @@
   
 - 🌎 Brazil.
 - 💻 Systems Analyst.
-- :books: Studying:  Javascript - Bootstrap.
+- :books: Studying:  Javascript | Front End Development.
 - 🎓 Graduated in Information Systems.
 
 <div align="center">  
