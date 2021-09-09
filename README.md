@@ -1,11 +1,12 @@
  ## Hello 👋.  My name is Isadora Vanderlan!
  
- #### 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
+ ####  🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
   
 - 🌎 Brazil.
 - 💻 Systems Analyst.
-- :books: Studying:  Javascript | Front End Development.
 - 🎓 Graduated in Information Systems.
+- :books: Studying:  Javascript | Front End Development.
+
 
 <div align="center">  
   <div>
