@@ -1,4 +1,4 @@
- ## Hello 👋. <br> 
+ ## Hello 👋 <br> 
  ## My name is Isadora Vanderlan!
  
  ####  🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
