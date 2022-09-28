@@ -5,7 +5,7 @@
 - 🌎 Brazil.
 - 💻 Systems Analyst.
 - 🎓 Graduated in Information Systems.
-- :books: Studying:  Front-End Development | Javascript | Bootstrap | React.
+- :books: Studying:  Front-End Development | PHP | Wordpress | Ingles.
 
 <div align="center"> 
  <div style="display: inline_block"><br>
