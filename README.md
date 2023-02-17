@@ -1,12 +1,12 @@
- ## Olá 👋 <br> 
- ## Meu nome é Isadora Vanderlan!
- 
- ####  🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
+ ## Olá 👋, meu nome é Isadora Vanderlan!
+ </br>
   
-- 🌎 Brazil.
+- 🌎 Brasil.
 - 💻 Systems Analyst Proteus TOTVS.
 - 🎓 Bacharel em Sistemas de Informações.
-- :books: Estudante:  Front-End Development | PHP | Wordpress | Ingles.
+- :books: Estudante:  Front-End Development | Javascript | Inglês.
+
+####  🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
 
 <div align="center"> 
  <div style="display: inline_block"><br>
