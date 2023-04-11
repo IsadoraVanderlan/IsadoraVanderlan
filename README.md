@@ -2,7 +2,6 @@
  </br>
   
 - 🌎 Brasil.
-- 💻 Systems Analyst Proteus TOTVS.
 - 🎓 Bacharel em Sistemas de Informações.
 - :books: Estudante:  Front-End Development | Javascript | Inglês.
 
