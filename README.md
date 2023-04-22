@@ -3,7 +3,7 @@
   
 - 🌎 Brasil.
 - 🎓 Bacharel em Sistemas de Informações.
-- :books: Estudante:  Front-End Development | Javascript | Inglês.
+- :books: Estudante:  Front-End Development | Inglês.
 
 ####  🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
 
