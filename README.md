@@ -4,7 +4,7 @@
 - 🌎 Brasil.
 - 🎓 Bacharel em Sistemas de Informações.
 - :books: Estudante:  Front-End Development | Inglês.
-- 👯 Colaborando como voluntária na função de Desenvolvedora Front-End em Instituto Berna Almeida.
+- 👯 Voluntária na função de Desenvolvedora Front-End em Instituto Berna Almeida.
 
 ####  🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
 
