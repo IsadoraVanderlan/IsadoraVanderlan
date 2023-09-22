@@ -6,7 +6,7 @@
 - :books: Estudante:  Front-End Development | Inglês.
 - 👯 Voluntária na função de Desenvolvedora Front-End em Instituto Berna Almeida.
 
-####  🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
+🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
 
 <div align="center"> 
  <div style="display: inline_block"><br>
