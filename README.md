@@ -3,7 +3,7 @@
   
 - 🌎 Brasil.
 - 🎓 Bacharel em Sistemas de Informações.
-- :books: Estudante:  QA Engineer | Inglês.
+- :books: Estudante: DevOps Cloud Engineer | Inglês.
 - 👯 Voluntária na função de Desenvolvedora Front-End em Instituto Berna Almeida.
 
 🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
