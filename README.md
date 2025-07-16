@@ -1,12 +1,12 @@
  ## Olá 👋, meu nome é Isadora Vanderlan!
  </br>
   
-- 🌎 Brasil.
-- 🎓 Bacharel em Sistemas de Informações.
-- :books: Estudante: DevOps Cloud Engineer | Inglês.
-- 👯 Voluntária na função de Desenvolvedora Front-End em Instituto Berna Almeida.
+- 🌎 Brazil.
+- 🎓 Bachelor's degree in Information Systems.
+- 📚 Currently studying: DevOps Cloud Engineer | English.
+- 👯 Volunteer Front-End Developer at Instituto Berna Almeida.
 
-🧠"O aprendizado é conhecimento, e conhecimento é liberdade e poder"💻
+🧠"Learning is knowledge, and knowledge is freedom and power."💻
 
 <div align="center"> 
  <div style="display: inline_block"><br>
