@@ -1,6 +1,6 @@
 # Olá 👋, eu sou a Isadora Vanderlan!
 
-> **Cloud Security Specialist in Training | 3+ Years ERP Experience | Front-end Developer**
+> **Especializando-se em Segurança em Cloud ASW | +3 Anos de Experiência em ERP | Experiência em Desenvolvimento Front-end**
 
 Unindo a visão de processos do Protheus, a experiência de construção do Front-end e o poder de escala da AWS para criar soluções seguras e eficientes.
 
