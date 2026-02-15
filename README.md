@@ -24,7 +24,7 @@ Unindo a visão de processos do Protheus, a experiência de construção do Fron
 ---
 
 ### 📫 Vamos nos conectar?
-*   **LinkedIn:** [isadoravanderlan](https://www.linkedin.com) 🔗
+*   **LinkedIn:** [isadoravanderlan](www.linkedin.com/in/isadoravanderlan) 🔗
 *   **E-mail:** [vanderlansantos1991@gmail.com](mailto:vanderlansantos1991@gmail.com) ✉️
 
 ---
