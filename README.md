@@ -1,32 +1,35 @@
- ## Olá 👋, meu nome é Isadora Vanderlan!
- </br>
-  
-- 🌎 Brazil.
-- 🎓 Bachelor's degree in Information Systems.
-- 📚 Currently studying: DevOps Cloud Engineer | English.
-- 👯 Volunteer Front-End Developer at Instituto Berna Almeida.
+# Olá 👋, eu sou a Isadora Vanderlan!
 
-🧠"Learning is knowledge, and knowledge is freedom and power."💻
+> **Cloud Security Specialist in Training | 3+ Years ERP Experience | Front-end Developer**
 
-<div align="center"> 
- <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
- 
-  <div>
-    <a href="https://github.com/IsadoraVanderlan">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraVanderlan&layout=compact&langs_count=7&theme=radical"/>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=IsadoraVanderlan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </div>
-   
-  <a href="https://www.linkedin.com/in/isadoravanderlan"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:vanderlansantos1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+Unindo a visão de processos do Protheus, a experiência de construção do Front-end e o poder de escala da AWS para criar soluções seguras e eficientes.
+
+---
+
+### 💼 Trajetória Profissional & Especialidades
+
+*   **Especialista em Ecossistema Protheus (Varejo/Lojas):** 
+    - Atuação completa em **implantação de módulos de Varejo (SIGALOJA)** e gestão de ambientes críticos.
+    - Experiência em **aplicação de patches, atualizações de dicionário e manutenção de repositórios**, garantindo a continuidade do negócio.
+    - Gestão de banco de dados SQL e permissionamento de usuários (uma base sólida para o que hoje aplico em IAM na AWS).
+
+*   **Segurança em Nuvem (AWS):** 
+    - Especializando-me na [Escola da Nuvem](https://escoladanuvem.org) para transpor minha experiência de sistemas locais para arquiteturas escaláveis e seguras.
+    - Foco em: Segurança de Redes, Criptografia de Dados e Automação de Compliance.
+
+*   **Desenvolvimento Front-End:** 
+    - Criação de interfaces modernas para otimizar a experiência do usuário, aplicando boas práticas de segurança no lado do cliente (Client-side security).
+    - **Voluntariado:** Desenvolvedora Front-End no **Instituto Berna Almeida**.
+
+---
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io)](www.linkedin.com/in/isadoravanderlan)
+[![Email](https://img.shields.io)](mailto:vanderlansantos1991@gmail.com)
+
+*"Aprender é conhecimento, e conhecimento é liberdade e poder."*
+
+
 
 
   
