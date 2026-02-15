@@ -31,9 +31,10 @@ Unindo a visão de processos do Protheus, a experiência de construção do Fron
 
 *"Aprender é conhecimento, e conhecimento é liberdade e poder."*
 
+### 📫 Vamos nos conectar?
 
-*"Aprender é conhecimento, e conhecimento é liberdade e poder."*
-
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+[![Email](https://img.shields.io)](mailto:vanderlansantos1991@gmail.com)
 
 
 
