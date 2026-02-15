@@ -24,7 +24,7 @@ Unindo a visão de processos do Protheus, a experiência de construção do Fron
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io)](www.linkedin.com/in/isadoravanderlan)
+[![LinkedIn](https://img.shields.io)](https://img.shields.io)](www.linkedin.com/in/isadoravanderlan)
 [![Email](https://img.shields.io)](mailto:vanderlansantos1991@gmail.com)
 
 *"Aprender é conhecimento, e conhecimento é liberdade e poder."*
